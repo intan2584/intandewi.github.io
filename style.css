@@ -82,7 +82,7 @@ section {
 }
 
 .hero {
-  background-image: url(/img/bgintan.png);
+  background-image: url(img/bgintan.png);
   background-position: center;
   background-size: cover;
   display: flex;
